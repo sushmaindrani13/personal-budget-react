@@ -2,8 +2,8 @@ import React from 'react';
 
 function Footer() {
   return (
-<footer class="bottom" aria-label="Footer content">
-    <div class="center">
+<footer className="bottom" aria-label="Footer content">
+    <div className="center">
         All rights reserved &copy; Fabio Nolasco
     </div>
 </footer>
